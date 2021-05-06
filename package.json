@@ -33,6 +33,6 @@
     "babel-preset-env": "^1.7.0",
     "lodash": "^4.17.19",
     "minimist": "^1.2.5",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
