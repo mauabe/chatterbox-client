@@ -21,7 +21,7 @@
     "braces": "^3.0.2",
     "chai": "^3.5.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "request": "^2.70.0"
   },
   "babel": {
